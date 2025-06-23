@@ -1,6 +1,6 @@
 # ⚖️ BMI Converter – React 
 
-This BMI Converter is a responsive React application built using Vite. It allows users to input their weight (in kg) and height (in cm), and instantly calculates their Body Mass Index (BMI). Based on the BMI result, it classifies the user's health status (e.g., Underweight, Normal, Overweight, Obese).
+This BMI Converter is a  React application built using Vite. It allows users to input their weight (in kg) and height (in cm), and instantly calculates their Body Mass Index (BMI). Based on the BMI result, it classifies the user's health status (e.g., Underweight, Normal, Overweight, Obese).
 
 The aim of this project was to practice React fundamentals, including component structure, state management, and event handling. Additionally, it helped in understanding how to manage user input and apply basic formulas for dynamic result rendering in a clean and intuitive UI.
 
@@ -29,9 +29,9 @@ The aim of this project was to practice React fundamentals, including component 
 
 ## 🎯 What I Gained  / Concepts Practiced
 
-✅ Strengthened my understanding of React components and JSX
+✅ Strengthened my understanding of **React components and JSX**
 
-✅ Learned how to manage user input with state (useState)
+✅ Learned how to manage user input with state **(useState)**
 
 ✅ Practiced applying conditional logic for real-time output
 
